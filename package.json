@@ -1,0 +1,33 @@
+{
+  "name": "chatbot-nodejs",
+  "version": "1.0.0",
+  "description": "This is my personal whatsapp bot",
+  "main": "server.js",
+  "dependencies": {
+    "@google-cloud/dialogflow": "^4.6.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mysql": "^2.18.1"
+  },
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumithemmadi/chatbot-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "chatbot",
+    "chatbot",
+    "bot",
+    "whatsapp"
+  ],
+  "author": "sumithemmadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sumithemmadi/chatbot-nodejs/issues"
+  },
+  "homepage": "https://github.com/sumithemmadi/chatbot-nodejs#readme"
+}
